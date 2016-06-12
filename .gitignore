@@ -1,0 +1,50 @@
+hog_model
+# Temporary and binary files
+*~
+*.py[cod]
+*.so
+*.cfg
+!setup.cfg
+*.orig
+*.log
+*.pot
+__pycache__/*
+.cache/*
+.*.swp
+
+# Project files
+.ropeproject
+.project
+.pydevproject
+.settings
+.idea
+
+# Package files
+*.egg
+*.eggs/
+.installed.cfg
+*.egg-info
+
+# Unittest and coverage
+htmlcov/*
+.coverage
+.tox
+junit.xml
+coverage.xml
+
+# Build and docs folder/files
+build/*
+dist/*
+sdist/*
+docs/api/*
+docs/_build/*
+cover/*
+MANIFEST
+sample
+orat_oret
+notebook/.ipynb_checkpoints
+.DS_Store
+.Rproj.user
+notebook/old
+notebook/plr_plot
+hog_model_thesis
